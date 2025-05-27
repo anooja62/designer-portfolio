@@ -1,0 +1,51 @@
+[
+    {
+      "title": "Mobile App Design",
+      "description": [
+        "iOS and Android UI/UX best practices",
+        "Responsive and adaptive layouts",
+        "Micro-interactions and motion concepts"
+      ]
+    },
+    {
+      "title": "SaaS & Dashboard UX",
+      "description": [
+        "Complex information architecture",
+        "Data visualization & user flow optimization",
+        "B2B and enterprise product UX"
+      ]
+    },
+    {
+      "title": "E-Commerce & Conversion Design",
+      "description": [
+        "UX for product listings, carts, and checkout",
+        "Conversion-driven UI/UX decisions",
+        "A/B testing insights and optimisation"
+      ]
+    },
+    {
+      "title": "Product Design",
+      "description": [
+        "End-to-end design for web and mobile applications",
+        "High-fidelity UI design with design systems",
+        "Design handoff for development teams"
+      ]
+    },
+    {
+      "title": "CRM & EHR Interface Design",
+      "description": [
+        "Workflow simplification for data-heavy platforms",
+        "Accessibility and usability in enterprise tools",
+        "Visual clarity for complex systems"
+      ]
+    },
+    {
+      "title": "Design System Development",
+      "description": [
+        "Component libraries",
+        "UI guidelines & documentation",
+        "Consistency across teams and platforms"
+      ]
+    }
+  ]
+  

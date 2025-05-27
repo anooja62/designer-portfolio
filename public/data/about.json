@@ -1,0 +1,18 @@
+{
+    "title": "About Me",
+    "intro": "I'm A",
+    "highlight": "Product Designer",
+    "descriptionHighlight": "Digital Experiences",
+    "years": "5 Years",
+    "description": "Who’s Been Shaping Digital Experiences For Over",
+    "bio": "Okay, so design wasn’t always part of the plan. I started out as a computer science grad with a deep interest in logic and structure. But somewhere between writing code and solving user problems, I discovered the world of design — and I haven’t looked back since.\nDesign felt natural. It blended creativity with structure, empathy with problem-solving. I realized I could impact how people feel, move, and interact — just by designing intentionally.\nNow, I view the world through a designer’s lens. From mobile apps to SaaS dashboards, every detail matters. Each pixel, button, and flow tells a story — and I love being part of that story. Whether I’m working on a healthcare app, an eCommerce platform, or a CRM tool, my mission stays the same: design experiences that work beautifully and feel effortless.\nEvery project is a new challenge, a chance to learn something new, to explore better ways to solve real problems. That’s what fuels me as a designer.",
+    "cvLink": "/download-cv.pdf",
+    "skills": [
+      { "name": "Figma", "icon": "figma", "value": 100 },
+      { "name": "Adobe XD", "icon": "xd", "value": 100 },
+      { "name": "Adobe Illustrator", "icon": "ai", "value": 85 },
+      { "name": "Adobe Photoshop", "icon": "ps", "value": 85 },
+      { "name": "Adobe Premiere", "icon": "pr", "value": 70 }
+    ]
+  }
+  
