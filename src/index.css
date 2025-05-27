@@ -1,24 +1,23 @@
-
 @import "tailwindcss";
 
 
 @font-face {
   font-family: 'Lato';
-  src: url('/fonts/Lato-Regular.ttf') format('truetype'); /* Replace with your font file paths */
+  src: url('/fonts/Lato/Lato-Regular.ttf') format('truetype'); 
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'Lato';
-  src: url('/fonts/Lato-Bold.ttf') format('truetype');  /* Replace with your font file paths */
+  src: url('/fonts/Lato/Lato-Bold.ttf') format('truetype');  
   font-weight: bold;
   font-style: normal;
 }
 
-.test-lato {
+/* .test-lato {
   font-family: 'Lato', sans-serif !important;
-}
+} */
 
 body {
   font-family: 'Lato', sans-serif;
