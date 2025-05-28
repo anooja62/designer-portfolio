@@ -1,6 +1,6 @@
 export default function Header() {
     return (
-      <header className="bg-[#121212] text-white px-6 py-20 font-lato">
+      <header className="bg-[#121212] text-white px-6 py-20 font-lato" id="home">
         <div className="max-w-7xl mx-auto flex flex-col md:flex-row items-center justify-between gap-12">
           {/* Left Section */}
           <div className="flex-1">

@@ -12,7 +12,7 @@ export default function Services() {
   }, []);
 
   return (
-    <section className="bg-[#121212] text-white py-16 px-6 font-lato">
+    <section className="bg-[#121212] text-white py-16 px-6 font-lato" id="services">
       <div className="max-w-7xl mx-auto text-center">
         <h2 className="text-2xl md:text-3xl  mb-2">Services</h2>
         <p className="text-sm text-gray-400 mb-10">

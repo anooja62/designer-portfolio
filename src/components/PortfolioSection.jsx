@@ -14,7 +14,7 @@ const PortfolioSection = () => {
   if (!data) return <div className="text-white text-center py-10">Loading...</div>;
 
   return (
-    <section className="bg-[#121212] py-16 px-4 text-white">
+    <section className="bg-[#121212] py-16 px-4 text-white" id="portfolio">
       <h2 className="text-3xl text-center mb-8">{data.title}</h2>
 
       {/* Filters */}

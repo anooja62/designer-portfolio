@@ -20,7 +20,7 @@ export default function About() {
   if (!data) return null;
 
   return (
-    <section id="about" className="bg-[#121212] text-white px-6 md:px-20 py-16 font-lato">
+    <section id="about-me" className="bg-[#121212] text-white px-6 md:px-20 py-16 font-lato">
       <h2 className="text-center text-2xl md:text-3xl mb-2">{data.title}</h2>
       <p className="text-center text-sm text-gray-400 mb-12">
         {data.intro} <span className="text-orange-500">{data.highlight}</span> Who’s Been Shaping
